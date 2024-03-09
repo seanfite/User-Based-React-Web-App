@@ -1,4 +1,4 @@
-# Find Walkthrough at https://youtu.be/Z9iotVuZYkQ
+# [Watch the Video Walkthrough Here](https://youtu.be/Z9iotVuZYkQ)
 
 # User-Based React Application Guide
 
